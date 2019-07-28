@@ -2,7 +2,7 @@
 import music21
 
 # Constants
-message = "drmfsltw"
+message = "drmfsltwe"
 
 # Mappings
 mappingsDictionary = {  #letter : pitch
@@ -13,7 +13,8 @@ mappingsDictionary = {  #letter : pitch
                         "s" : "G4",
                         "l" : "A4",
                         "t" : "B4",
-                        "w" : "C5"
+                        "w" : "C5",
+                        "e" : "C4"
 }
 
 # Music constants
