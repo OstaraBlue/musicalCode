@@ -1,2 +1,3 @@
 # musicalCode
-Do re mi 
+Do re mi <br> 
+Using Python and Music21 to create midi files.
